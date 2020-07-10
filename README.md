@@ -17,7 +17,8 @@
 
 # 示例
 
-Java 运行态 注解扫描工具
+Java 运行态 元数据操作工具
+
 ```java
 Reflections reflections = new Reflections("my.project");
 
