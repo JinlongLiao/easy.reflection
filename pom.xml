@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.easy.reflection</groupId>
+    <groupId>io.github.jinlongliao</groupId>
     <artifactId>easy.reflection</artifactId>
     <version>0.9.0</version>
 
     <name>easy.reflection</name>
     <description>Java 运行态 注解扫描工具</description>
-    <url>https://github.com/JinlongLiao/reflections.git</url>
+    <url>https://github.com/JinlongLiao/easy.reflection.git</url>
     <properties>
         <javassist.version>3.27.0-GA</javassist.version>
         <kotlin.version>1.3.72</kotlin.version>
@@ -24,12 +24,12 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/JinlongLiao/reflections/issues</url>
-        <connection>scm:git:git@github.com:JinlongLiao/reflections.git</connection>
+        <url>https://github.com/JinlongLiao/easy.reflection/issues</url>
+        <connection>scm:git:git@github.com:JinlongLiao/easy.reflection.git</connection>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/JinlongLiao/reflections/issues</url>
+        <url>https://github.com/JinlongLiao/easy.reflection/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 

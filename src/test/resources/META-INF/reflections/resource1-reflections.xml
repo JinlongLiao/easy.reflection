@@ -3,13 +3,13 @@
 <Reflections>
     <MethodAnnotationsScanner>
         <entry>
-            <key>org.easy.reflection.TestModel$AM1</key>
+            <key>io.github.jinlongliao.easy.reflection.TestModel$AM1</key>
             <values>
-                <value>org.easy.reflection.TestModel$C4.&lt;init&gt;(java.lang.String)</value>
-                <value>org.easy.reflection.TestModel$C4.m3()</value>
-                <value>org.easy.reflection.TestModel$C4.m1(int[][], java.lang.String[][])</value>
-                <value>org.easy.reflection.TestModel$C4.m1(int, java.lang.String[])</value>
-                <value>org.easy.reflection.TestModel$C4.m1()</value>
+                <value>io.github.jinlongliao.easy.reflection.TestModel$C4.&lt;init&gt;(java.lang.String)</value>
+                <value>io.github.jinlongliao.easy.reflection.TestModel$C4.m3()</value>
+                <value>io.github.jinlongliao.easy.reflection.TestModel$C4.m1(int[][], java.lang.String[][])</value>
+                <value>io.github.jinlongliao.easy.reflection.TestModel$C4.m1(int, java.lang.String[])</value>
+                <value>io.github.jinlongliao.easy.reflection.TestModel$C4.m1()</value>
             </values>
         </entry>
     </MethodAnnotationsScanner>

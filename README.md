@@ -9,7 +9,7 @@
 将反射添加到您的项目。对于Maven项目，只需添加以下依赖项：
 ```xml
 <dependency>
-    <groupId>org.easy.reflection</groupId>
+    <groupId>io.github.jinlongliao.easy.reflection</groupId>
     <artifactId>easy.reflection</artifactId>
     <version>0.9.0</version>
 </dependency>
