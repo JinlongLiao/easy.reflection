@@ -178,7 +178,7 @@
                             !javax.annotation,
                             *
                         </Import-Package>
-                        <Bundle-SymbolicName>org.reflections</Bundle-SymbolicName>
+                        <Bundle-SymbolicName>io.github.jinlongliao.easy.reflection</Bundle-SymbolicName>
                     </instructions>
                 </configuration>
             </plugin>
