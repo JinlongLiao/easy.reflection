@@ -4,7 +4,7 @@
 
     <groupId>io.github.jinlongliao</groupId>
     <artifactId>easy.reflection</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1</version>
 
     <name>easy.reflection</name>
     <description>Java 运行态 元数据操作工具</description>
