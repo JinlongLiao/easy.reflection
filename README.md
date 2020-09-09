@@ -11,7 +11,7 @@
 <dependency>
     <groupId>io.github.jinlongliao.easy.reflection</groupId>
     <artifactId>easy.reflection</artifactId>
-    <version>0.9.0</version>
+    <version>0.9.1</version>
 </dependency>
 ```
 
